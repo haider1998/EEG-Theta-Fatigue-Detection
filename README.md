@@ -1,6 +1,6 @@
 # EEG Theta Band Fatigue Detection
 
-![Project Banner](path_to_your_image.png)
+![Project Banner](docs/image_logo.png)
 
 ## Table of Contents
 
