@@ -128,5 +128,3 @@ This project demonstrates the feasibility of real-time fatigue detection using E
 5. Min, J., Wang, P., & Hu, J. (2017). The original EEG data for driver fatigue detection. *Figshare*.  
 
 ---
-
-This documentation provides a comprehensive overview of your project and adheres to academic standards. Make sure to replace placeholder values and update references as needed to reflect your specific work.

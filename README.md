@@ -124,13 +124,3 @@ Project Link: [EEG Theta Band Fatigue Detection](https://github.com/haider1998/E
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [GitHub Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
----
-
-### Notes
-
-- Replace placeholders like `your_username`, `your.email@example.com`, and `path_to_your_image.png` with your actual information.
-- Ensure that the `requirements.txt` file lists all necessary dependencies for your project.
-- The `train_model.py` script should contain the code for training your machine learning model and saving it as `model.pkl`.
-- The `main.py` script should set up the FastAPI application to load the `model.pkl` and provide endpoints for predictions.
