@@ -1,15 +1,14 @@
 from fastapi import FastAPI
+from joblib import load
 from pydantic import BaseModel
 import uvicorn
-import pickle
 import numpy as np
 
 # Initialize FastAPI app
 app = FastAPI(title="EEG Theta Band Fatigue Detection API", version="1.0")
 
 # Load the pre-trained model
-with open("models/fatigue_detector.pkl", "rb") as model_file:
-    model = pickle.load(model_file)
+model = load('models/fatigue_detector.pkl')
 
 
 # Define the input data schema
